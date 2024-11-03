@@ -1,0 +1,10 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+Core/internal_logs
+/Core/Migrations
+.idea
+.vs
+DYBS.sln
